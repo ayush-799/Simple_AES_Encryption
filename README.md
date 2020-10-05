@@ -1,3 +1,13 @@
+   <p align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+        <img src="https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg">
+    </a>
+</p>
+
+<h1 align="center">Hacktoberfest</h1> 
+    We hereby welcome Hackers who wish to contribute to Open Source and participate in  Hacktober Fest 2020.  
+    We are looking for <b>Quality</b> and <b>not Quantity</b> 
+
 # Simple_AES_Encryption
 
 
