@@ -1,23 +1,6 @@
-   <p align="center">
-    <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg">
-    </a>
-</p>
 
-<h1 align="center">Hacktoberfest</h1> 
-
-<h1 align="center"> AND </h1>  
-    
-    
- <p align="center">
- <a href="https://circleci.com/blog/join-the-party-get-your-hacktoberfest-prs-with-circleci-orbs/">
-     <img src="https://aws1.discourse-cdn.com/circleci/original/3X/d/0/d0604fd53dad9210af8404baead072f082a874fd.gif">
- </a>
-</p>
-
-<h1 align="center">ORBTOBERFEST</h1> 
-    We hereby welcome Hackers who wish to contribute to Open Source and participate in  Hacktober Fest 2020.  
-    We are looking for <b>Quality</b> and <b>not Quantity</b> 
+ We hereby welcome Hackers who wish to contribute to Open Source and participate in  Hacktober Fest 2020.  
+ We are looking for <b>Quality</b> and <b>not Quantity</b> 
 
 # Simple_AES_Encryption
 
