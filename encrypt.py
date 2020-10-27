@@ -5,8 +5,16 @@ import os.path
 from os import listdir
 from os.path import isfile, join
 from getpass import getpass
-
-
+import secrets
+import string
+#Alphanumeric Password Generator
+alphabet = string.ascii_letters + string.digits
+password = ''.join(secrets.choice(alphabet) for i in range(10))
+Choice=input ("Do you want to create a Password:-Yes,No")
+if Choice == "Yes":
+		print("Here is your password :-", password)
+else :
+		print("No Problem, Thank You")
 class Encryptor:
     def __init__(self,key):
         self.key=key
